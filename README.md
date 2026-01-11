@@ -7,6 +7,15 @@ The app enables frontline staff and administrators to capture incidents in real 
 This repository showcases the iOS architecture and engineering patterns behind CIRCL, focusing on maintainability, scalability, and real-world constraints faced in enterprise applications.
 
 ---
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="Screenshots/Incident_List.PNG" width="24%" />
+  <img src="Screenshots/Review_Page.PNG" width="24%" />
+  <img src="Screenshots/Incident_Checklist.PNG" width="24%" />
+  <img src="Screenshots/Previous_Events_Tab.PNG" width="24%" />
+</p>
+
 
 ## 🧩 What the app does
 
